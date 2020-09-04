@@ -5,7 +5,7 @@ import static spark.Spark.*;
 import edu.escuelaing.arep.calculator.controllers.CalculatorWebController;
 
 /**
- * CalculatorWebApp provee la API para consultar la media y la desviacion estandar a partir de un conjunto de datos.
+ * CalculatorWebApp provee la API para consultar funciones a partir de un conjunto de datos.
  * @author Ricardo Martinez
  * @version 1.0
  */ 

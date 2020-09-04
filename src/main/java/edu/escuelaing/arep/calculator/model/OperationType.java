@@ -1,6 +1,7 @@
 package edu.escuelaing.arep.calculator.model;
 
-public enum OperationTrig {
+public enum OperationType {
+    NONE,
     COS,
     SIN,
     TAN
